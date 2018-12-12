@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginPrueba</string>
+    <string name="titulo">Conectar</string>
+    <string name="ed">Escribe solo numeros</string>
+    <string name="btn">Iniciar Sesion</string>
+    <string name="lbl">Olvidaste la contraseña?</string>
+</resources>

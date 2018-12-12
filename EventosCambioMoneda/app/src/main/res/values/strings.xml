@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EventosCambioMoneda</string>
+    <string name="title">- CAMBIO DE MONEDA -</string>
+    <string name="rdT1">Pesetas a Euros</string>
+    <string name="rdT2">Euros a Pesetas</string>
+    <string name="info">Introduce valor: </string>
+    <string name="btnText">Calcula</string>
+</resources>

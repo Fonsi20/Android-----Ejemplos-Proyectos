@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginExample</string>
+    <string name="titulo">Conected</string>
+    <string name="ed">Write only number</string>
+    <string name="btn">Start Session</string>
+    <string name="lbl">Forgot your password?</string>
+</resources>
